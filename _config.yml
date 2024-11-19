@@ -87,7 +87,7 @@ content:
   - title: Education 
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      -layout: left
         title: Moore High School
         caption: 2020 - 2024
         sub_title: General Education
