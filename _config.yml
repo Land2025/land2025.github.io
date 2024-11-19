@@ -55,7 +55,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+       - title: Super awesome project
        # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -88,7 +88,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       -layout: left
-       Title: Moore High School 
+       Title : Moore High School 
       #  title: Moore High School
         caption: 2020 - 2024
         sub_title: General Education
