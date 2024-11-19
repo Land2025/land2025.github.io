@@ -94,7 +94,7 @@ content:
         #quote: >
           
         description: | # this will include new lines to allow paragraphs
-        I spent four years at this high school all of it has been going towards my career.
+         I spent four years at this high school all of it has been going towards my career.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
