@@ -88,7 +88,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       -layout: left
-        title: Moore High School
+       Title: Moore High School 
+      #  title: Moore High School
         caption: 2020 - 2024
         sub_title: General Education
         # quote: >
